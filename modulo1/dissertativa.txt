@@ -1,1 +1,5 @@
-
+O paradigma mais indicado para implementar o sistema de gerenciamento da biblioteca é o orientado a objetos. Essa vantagem do POO vem justamente das suas três principais características: Encapsulamento, herança e polimorfismo.
+O encapsulamento, ou a ideia de esconder os detalhes internos de um objeto, expondo apenas o que é necessário ao mundo exterior, é perfeito para uso nos dados pessoais dos usuários por exemplo, na qual não é qualquer um que pode e deve ter acesso. 
+A herança é perfeita quando pensamos no reuso por exemplo, o fato de podermos herdar metodos e atributos de uma classe "pai" a uma classe "filha", permite um código muito mais limpo e de fácil manutenção posterior.
+O polimorfismo, ou o fato de podermos tratar objetos de diferentes classes de maneira similar permite e facilita a evolução do sistema.
+Por fim o paradigma orientado a objetos por ser justamente um dos mais usados no mundo atualmente (se não o mais usado) nos demonstra sua eficiência, sua capacidade de manutenção, sua grande quantidade de documentação e a grande comunidade, facilitando toda a implementação do sistema, além disso o POO facilita a leitura e interpretação do próprio código.
